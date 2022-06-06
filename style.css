@@ -1,0 +1,16 @@
+.image{
+    height: 400px;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container-fluid{
+    width: 600px;
+   
+}
+body{
+    background-image: url("https://marketplace.canva.com/EAE-SplcFgM/1/0/1600w/canva-delicious-food-menu-simple-BB3Bao1GIJk.jpg");
+}
